@@ -1,0 +1,16 @@
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\bin\Debug\net5.0\repeticao_2.exe
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\bin\Debug\net5.0\repeticao_2.deps.json
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\bin\Debug\net5.0\repeticao_2.runtimeconfig.json
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\bin\Debug\net5.0\repeticao_2.runtimeconfig.dev.json
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\bin\Debug\net5.0\repeticao_2.dll
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\bin\Debug\net5.0\ref\repeticao_2.dll
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\bin\Debug\net5.0\repeticao_2.pdb
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\obj\Debug\net5.0\repeticao_2.csprojAssemblyReference.cache
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\obj\Debug\net5.0\repeticao_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\obj\Debug\net5.0\repeticao_2.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\obj\Debug\net5.0\repeticao_2.AssemblyInfo.cs
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\obj\Debug\net5.0\repeticao_2.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\obj\Debug\net5.0\repeticao_2.dll
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\obj\Debug\net5.0\ref\repeticao_2.dll
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\obj\Debug\net5.0\repeticao_2.pdb
+C:\Users\User1\Desktop\entregas3\estrutura_de_repeticao\repeticao_2\obj\Debug\net5.0\repeticao_2.genruntimeconfig.cache

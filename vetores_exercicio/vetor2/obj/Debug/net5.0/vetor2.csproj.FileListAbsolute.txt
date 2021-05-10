@@ -1,0 +1,16 @@
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\bin\Debug\net5.0\vetor2.exe
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\bin\Debug\net5.0\vetor2.deps.json
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\bin\Debug\net5.0\vetor2.runtimeconfig.json
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\bin\Debug\net5.0\vetor2.runtimeconfig.dev.json
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\bin\Debug\net5.0\vetor2.dll
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\bin\Debug\net5.0\ref\vetor2.dll
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\bin\Debug\net5.0\vetor2.pdb
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\obj\Debug\net5.0\vetor2.csprojAssemblyReference.cache
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\obj\Debug\net5.0\vetor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\obj\Debug\net5.0\vetor2.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\obj\Debug\net5.0\vetor2.AssemblyInfo.cs
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\obj\Debug\net5.0\vetor2.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\obj\Debug\net5.0\vetor2.dll
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\obj\Debug\net5.0\ref\vetor2.dll
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\obj\Debug\net5.0\vetor2.pdb
+C:\Users\User1\Desktop\entregas3\vetores_exercicio\vetor2\obj\Debug\net5.0\vetor2.genruntimeconfig.cache
