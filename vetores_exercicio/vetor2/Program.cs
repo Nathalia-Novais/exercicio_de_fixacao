@@ -6,17 +6,20 @@ namespace vetor2
     {
         static void Main(string[] args)
         {
-        int[] numeros;
-        numeros = new int[14];
 
-            for ( int i = 14; i <= 14; i--)
+            int[] numero = null;
+            numero = new int[15];
+
+            for (var i = 0; i < 15; i++)
             {
-                 Console.WriteLine($"Digite o {i + 1}° numero");
-                 numeros[i] = int.Parse(Console.ReadLine()); 
-              
+                Console.WriteLine($"Digite o numero {(i + 1)}° número");
+                numero[i] = int.Parse(Console.ReadLine());
             }
 
-              // Console.WriteLine($"{numeros}");
+            for (var j = 14; j >= 0; j--)
+            {
+                Console.WriteLine(numero[j]);
+            }
         }
     }
 }

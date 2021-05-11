@@ -24,11 +24,11 @@ namespace vetor1
             {
                 Console.WriteLine("Achei!");
             }
-          // else
-          //  {
-          //   Console.WriteLine("Desculpe não achei");
-           // }
-        }
+          else if (item != nomelista)
+          {
+              Console.WriteLine("Desculpe não achei");  
+          }
+            }
         }
     }
 }
