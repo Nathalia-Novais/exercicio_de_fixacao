@@ -7,18 +7,19 @@ namespace vetor2
         static void Main(string[] args)
         {
 
-            int[] numero = null;
-            numero = new int[15];
+            int[] numero = new int[3];
+           
+            Console.WriteLine($"Digite {numero.Length} números");
 
-            for (var i = 0; i < 15; i++)
+            for (var i = 0; i < numero.Length; i++)
             {
-                Console.WriteLine($"Digite o numero {(i + 1)}° número");
+                Console.WriteLine($"Digite o {(i + 1)}° número");
                 numero[i] = int.Parse(Console.ReadLine());
             }
 
-            for (var j = 14; j >= 0; j--)
+            for (var i = (numero.Length - 1); i >= 0; i--)
             {
-                Console.WriteLine(numero[j]);
+                Console.WriteLine($"\n{numero[i]}");
             }
         }
     }

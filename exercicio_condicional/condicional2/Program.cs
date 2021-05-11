@@ -7,20 +7,22 @@ namespace condicional2
         static void Main(string[] args)
         {
             Console.WriteLine("Qual o tipo de combustivel você ira usar?\n Gasolina 'G' Álcool 'A'");
-            string tipocombustivel =(Console.ReadLine().ToLower());
+            string tipocombustivel = Console.ReadLine().ToLower();
 
             Console.WriteLine("Quantos litros?");
-            double litros = double.Parse(Console.ReadLine());
+            int litros = int.Parse(Console.ReadLine());
 
             //gasolina
 
+          //   double valorgasolina = 5.30;
              double gasolinapreco = 0;
 
             if (tipocombustivel == "g")
             {
                 gasolinapreco = litros * 5.30;
-
-             if (litros <20){
+            
+          
+            } else if (litros <20){
 
                double desconto4 = gasolinapreco * 0.96;
                Console.WriteLine("você vai pagar:" + desconto4 + " reais");
@@ -31,7 +33,7 @@ namespace condicional2
                    Console.WriteLine("você vai pagar:" + desconto6 + " reais");
               }
 
-            }
+          //  }
 
             //alcool
 

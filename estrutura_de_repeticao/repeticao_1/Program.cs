@@ -6,22 +6,18 @@ namespace repeticao_1
     {
         static void Main(string[] args)
         {
-       
+        int[] numeros = new int[10];
 
-     int[] numeros = new int[10];
+        Console.WriteLine($"Digite {numeros.Length} valores");
 		
-		for (int i=0;  i<10; i++)
+		for (int i= 0;  i< numeros.Length; i++)
 		{
 			Console.Write($"Digite {(i+1)}° número: ");
-			numeros[i] = Convert.ToInt32(Console.ReadLine());
+			numeros[i] = int.Parse(Console.ReadLine());
 		}
 		
         Array.Sort(numeros);
-        Console.WriteLine($"O maior número é {numeros [0]} e o menor é {numeros [9]}");
-		//foreach ( numeros [0] && numeros [10]) Console.WriteLine(p);
-
-    
-        
+        Console.WriteLine($"O maior número é {numeros [(numeros.Length - 1)]} e o menor é {numeros [0]}");
 
         }
     }

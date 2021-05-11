@@ -14,12 +14,17 @@ namespace condicional_1
 
             int idade  = anoatual - nascimento;
 
-            if (idade <16)
+            if (idade < 16)
             {
                   Console.WriteLine("Você não tem idade para votar ainda!");
-            }else
+            
+            }else if (idade >=16 && idade <18)
             {
                  Console.WriteLine("Você já pode votar!");
+          
+            }else
+            {
+                  Console.WriteLine("Você é obrigado a votar!");
             }
 
         }

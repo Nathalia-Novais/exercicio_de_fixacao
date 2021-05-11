@@ -6,13 +6,14 @@ namespace repeticao_2
     {
         static void Main(string[] args)
         {
-            for (int j = 1; j <= 10; j++)
+            for (int i = 1; i <= 10; i++)
             {
-                for (int i = 1; i <= 10; i++)
+                Console.WriteLine($"\nTabuada do {i}");
+
+                for (int j = 1; j <= 10; j++)
                 {
-                    Console.WriteLine($"{j}x{i} = {j* i}");
+                    Console.WriteLine($"{i}x{j} = {i* j}");
                 }
-               Console.WriteLine();
             }
         }
     }
